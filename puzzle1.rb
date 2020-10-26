@@ -3,7 +3,6 @@
 class Rfid
 	# return uid in hexa str
 	def read_uid
-		`nfc-scan-device -`
 		puts "------------------------------------------------------"
 		puts "		Passa la targeta o el clauer"
 		puts "------------------------------------------------------"
