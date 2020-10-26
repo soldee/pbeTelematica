@@ -2,7 +2,7 @@
 
 require 'gtk3'
 require 'thread'
-require '../Puzzle1/puzzle1.rb'
+require 'puzzle1.rb'
 
 
 #creacio de la finestra i les seves caracteristiques
